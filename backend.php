@@ -1,8 +1,8 @@
 <?php
 
-$host = "127.0.0.1";
-$username = "ayd1ndemirci";
-$password = "Vs2H[iM2(QB&g)M";
+$host = "45.143.99.151";
+$username = "ardabansorgu";
+$password = "arda1122334455";
 $database = "ban";
 $port = 3306;
 $mysqli = new mysqli($host, $username, $password, $database, $port);
